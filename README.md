@@ -1,4 +1,4 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQGQLzMeutUfjQ/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=IZ-AZOgmBZUDSeRW7EAVEkwGmpD1zkYnOJDxmCjFk1k">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQFd_g9g9rBegQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=aVyxzSRRI70L4XiM5QRIYkpu-fxWjSyUn04Hrmdx62o">
 
 
 # Matheus Leandro
