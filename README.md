@@ -1,4 +1,4 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQFd_g9g9rBegQ/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=P0XVXT5Qv4QDSORBS5VLt3TxadDnw2d71sIhrpKG_2U">
+<img width="auto" src="https://raw.githubusercontent.com/matheusleandroo/matheusleandroo/master/keep-coding.jpg">
 
 
 # Matheus Leandro
