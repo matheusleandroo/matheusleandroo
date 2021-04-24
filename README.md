@@ -7,7 +7,7 @@
 I'm passionate about solving problems using programming.
 I'm a FullStack Developer :computer:
 
- :rocket:  &nbsp; I'm working at **Ivory IT**
+ :rocket:  &nbsp; I'm working at **Seidor**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
  <br/> :blush: &nbsp; I can help you with Javascript
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
