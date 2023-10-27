@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 I'm passionate about solving problems using programming.
-I'm a FullStack Developer :computer:
+I'm a Frontend Engineer :computer:
 
  :rocket:  &nbsp; I'm working at **Seidor**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
